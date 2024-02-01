@@ -9,8 +9,7 @@ Customizable: Tailor your notes with different colors and categories.
 Secure and Private: Your data is encrypted and stored securely.
 
 ## Demo
- Check out the live demo:
-[mynotebookapp-12vf.onrender.com](mynotebookapp-12vf.onrender.com)
+ Check out the live demo: mynotebookapp-12vf.onrender.com
 
 ### Installation
 
