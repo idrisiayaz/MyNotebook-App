@@ -1,4 +1,5 @@
 ##MyNotebook App
+
 MyNotebook is a personal project, a note-taking application developed as a hobby project. It's a simple yet powerful tool to organize your thoughts, ideas, and reminders.
 
 ###Features
